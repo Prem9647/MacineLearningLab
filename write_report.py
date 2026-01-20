@@ -1,0 +1,5 @@
+file = open("report.txt", "w")
+file.write("Student Activity Report\n")
+file.write("Total Logins: 2\n")
+file.write("Total Submissions: 1\n")
+file.close()
